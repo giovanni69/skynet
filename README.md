@@ -1,2 +1,2 @@
 # skynet
-Installing skynet on Ubuntu Desktop 21.10
+Installing SkyNet on Ubuntu Desktop 21.10
